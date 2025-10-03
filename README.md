@@ -60,7 +60,7 @@ To maintain the integrity of the course and the learning process for current and
 
 ### All Rights Reserved (Proprietary)
 
-**Copyright (c) [YEAR, e.g., 2025] [Your Name]. All Rights Reserved.**
+**Copyright (c) 20205 Linus Wase. All Rights Reserved.**
 
 **You are permitted to:**
 * **View and read** the code for educational and observation purposes.
