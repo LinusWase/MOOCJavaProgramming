@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/IntegerInput" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/VariousVariables" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BooleanInput" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DifferentTypesOfInput" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
