@@ -4,6 +4,8 @@ This repository contains my solutions and exercises completed as part of the **U
 
 This course covers the fundamentals of computer programming, algorithms, and Object-Oriented Programming (OOP) using the Java language.
 
+[Source code of the original material](https://github.com/rage/java-programming)
+
 ---
 
 ## Project Structure
@@ -17,13 +19,13 @@ My solutions are organized into **IntelliJ Modules** or **Source Root folders** 
 | `Part1` | Java Programming I (Parts 1-7) |
 | `Part2` | Java Programming II (Parts 8-14) |
 
-Within each `Part` folder, exercises are separated into **packages** (e.g., `part1.printing.exercise1`) corresponding to the chapter's topics.
+Within each `Part` folder, exercises are separated into modules and directorys corresponding to the chapter's topics.
 
 ---
 
 ## Technology and Setup
 
-* **IDE:** IntelliJ IDEA
+* **IDE:** IntelliJ IDEA Community Edition and Virtual Studio Code (for testing)
 * **Language:** Java
 * **Tools:** Built primarily around the **Test My Code** environment/structure used for automated testing in the course.
 
@@ -41,14 +43,22 @@ To run a specific exercise in IntelliJ IDEA:
 ## Progress
 
 **Java Programming I**
-* [ ] Part 1: Getting Started
-* [ ] Part 2: ...
-* [ ] Part 3: ...
-* [ ] ...
+* [X] Part 1: Getting Started
+* [ ] Part 2: Loops and methods
+* [ ] Part 3: Lists and array
+* [ ] Part 4: Object-oriented programming Part 1
+* [ ] Part 5: Object-oriented programming Part 2
+* [ ] Part 6: Objects
+* [ ] Part 7: General programming paradigms
 
 **Java Programming II**
-* [ ] Part 8: ...
-* [ ] ...
+* [ ] Part 8: Hash Map
+* [ ] Part 9: Inheritance and interfaces
+* [ ] Part 10: Handling collections with streams
+* [ ] Part 11: Diagrams
+* [ ] Part 12: Type parameters  
+* [ ] Part 13: Graphical user interfaces
+* [ ] Part 14: Data visualization
 
 ---
 
