@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MethodsAndDividingTheProgramIntoSmallerParts/MethodsAndDividingTheProgramIntoSmallerParts.iml" filepath="$PROJECT_DIR$/MethodsAndDividingTheProgramIntoSmallerParts/MethodsAndDividingTheProgramIntoSmallerParts.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoreLoops/MoreLoops.iml" filepath="$PROJECT_DIR$/MoreLoops/MoreLoops.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Part2.iml" filepath="$PROJECT_DIR$/.idea/Part2.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecurringProblemsAndPatternsToSolveThem/RecurringProblemsAndPatternsToSolveThem.iml" filepath="$PROJECT_DIR$/RecurringProblemsAndPatternsToSolveThem/RecurringProblemsAndPatternsToSolveThem.iml" />
