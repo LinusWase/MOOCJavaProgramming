@@ -10,6 +10,13 @@
       <sourceFolder url="file://$MODULE_DIR$/Positivity" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SpeedingTicket" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CheckingTheAge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GiftTax" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GradesAndPoints" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeapYear" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OddOrEven" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Password" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Same" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

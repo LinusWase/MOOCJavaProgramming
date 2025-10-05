@@ -4,5 +4,13 @@ public class Main {
         if (true) {
             System.out.println("This code is unavoidable!");
         }
+
+        int first = 1;
+        int second = 3;
+        boolean isLessThan = first < second;
+
+        if (isLessThan) {
+            System.out.println("1 is less than 3!");
+        }
     }
 }

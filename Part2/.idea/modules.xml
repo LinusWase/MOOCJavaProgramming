@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MoreLoops/MoreLoops.iml" filepath="$PROJECT_DIR$/MoreLoops/MoreLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Part2.iml" filepath="$PROJECT_DIR$/.idea/Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecurringProblemsAndPatternsToSolveThem/RecurringProblemsAndPatternsToSolveThem.iml" filepath="$PROJECT_DIR$/RecurringProblemsAndPatternsToSolveThem/RecurringProblemsAndPatternsToSolveThem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepeatingFunctionality/RepeatingFunctionality.iml" filepath="$PROJECT_DIR$/RepeatingFunctionality/RepeatingFunctionality.iml" />
+    </modules>
+  </component>
+</project>
