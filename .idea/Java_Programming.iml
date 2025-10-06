@@ -3,18 +3,42 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Arrays/ArrayPrinter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Arrays/IndexWasNotFound" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Arrays/Printer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Arrays/SumOfArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Arrays/Swap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Arrays/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/DiscoveringErrors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/AverageOfAList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/FirstAndLast" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/GreatestInList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/IndexOf" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/IndexOfSmallest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/LastInList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/ListSize" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/OnTheList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/OnlyTheseNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/PrintInRange" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/RememberTheseNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/RemoveLast" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/SecondPlusThird" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/SumOfAList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/ThirdElement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/AVClub" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/AgeOfTheOldest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/FirstWords" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/IsItTrue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/LastWords" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/LineByLine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/Login" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/NameOfTheOldest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/PersonalDetails" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/PrintThrice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
