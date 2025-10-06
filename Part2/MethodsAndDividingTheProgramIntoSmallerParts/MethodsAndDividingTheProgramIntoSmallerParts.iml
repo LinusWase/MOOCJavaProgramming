@@ -8,6 +8,16 @@
       <sourceFolder url="file://$MODULE_DIR$/InAHoleInTheGround" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Reprint" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AdvancedAstrology" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Averaging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DivisibleByThree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Division" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Greatest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NumberUno" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Smallest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StarSign" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Summation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Word" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

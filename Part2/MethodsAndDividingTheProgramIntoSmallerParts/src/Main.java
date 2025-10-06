@@ -16,4 +16,8 @@ public class Main {
     public static void greet(){
         System.out.println("Greetings from the method world!");
     }
+
+    public static int alwaysReturnsTen() {
+        return 10;
+    }
 }
