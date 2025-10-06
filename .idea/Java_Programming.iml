@@ -2,7 +2,20 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Part3/DiscoveringErrors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/FirstAndLast" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/GreatestInList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/IndexOf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/IndexOfSmallest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/LastInList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/ListSize" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/OnlyTheseNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/RememberTheseNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/SecondPlusThird" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/ThirdElement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part3/Lists/src" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
