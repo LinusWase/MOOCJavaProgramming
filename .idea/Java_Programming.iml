@@ -56,6 +56,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/YourFirstBankTransfer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/Items" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/PersonalInformation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

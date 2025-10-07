@@ -2,16 +2,16 @@ import java.util.ArrayList;
 
 public class ObjectsInAList {
     public static void main(String[] args) {
-        ArrayList<Person2> persons = new ArrayList<>();
+        ArrayList<Person> persons = new ArrayList<>();
 
-        Person2 john = new Person2("John");
+        Person john = new Person("John");
         persons.add(john);
 
-        persons.add(new Person2("Matthew"));
-        persons.add(new Person2("Martin"));
+        persons.add(new Person("Matthew"));
+        persons.add(new Person("Martin"));
 
-        for (Person2 person2: persons){
-            System.out.println(person2);
+        for (Person person: persons){
+            System.out.println(person);
         }
 
     }

@@ -1,7 +1,7 @@
 public class IntroductionToObjectOrientedProgramming {
     public static void main(String[] args) {
-        Person2 matti = new Person2("Matti");
-        Person2 juhana = new Person2("Juhana");
+        Person matti = new Person("Matti");
+        Person juhana = new Person("Juhana");
 
         matti.setHeight(180);
         matti.setWeight(86);
