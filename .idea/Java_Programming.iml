@@ -38,7 +38,24 @@
       <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/PersonalDetails" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/PrintThrice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part3/UsingStrings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Agent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Debt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/DecreasingCounter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/DogAttributes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Door" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Film" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Gauge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Multiplier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/PaymentCard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Product" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Room" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Song" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Statistics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/Whistle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/YourFirstAccount" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/YourFirstBankTransfer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
