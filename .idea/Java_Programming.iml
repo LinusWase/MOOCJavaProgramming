@@ -56,8 +56,22 @@
       <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/YourFirstBankTransfer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/IntroductionToObjectOrientedProgramming/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/Cubes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/GuestListFromAFile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/IsItInTheFile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/NumberOfStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/NumbersFromAFile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/PrintingAFile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/PrintingAFile/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/PrintingASpecifiedFile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/RecordsFromAFile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/SportStatistics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/StoringRecords" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/FilesAndReadingData/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/Books" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/Items" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/PersonalInformation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/TelevisionProgram" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
