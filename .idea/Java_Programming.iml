@@ -72,6 +72,14 @@
       <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/Items" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/PersonalInformation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part4/ObjectsInAList/TelevisionProgram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/Book" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/ConstructorOverload" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/Cube" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/Fitbyte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/OneMinute" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/OverloadedCounter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/PrimitiveAndReferenceVariables" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

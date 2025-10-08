@@ -35,3 +35,28 @@ Team:
 ENCE
 Games: 6
 </pre>
+
+## Part 2: Wins and Losses
+Extend the program so that it has the ability to print the number of wins and losses of a given team. The winner of a game is the team that has gained more points from it.
+
+You may assume that the games cannot be tied. Below, we're using the above-mentioned data.csv file.
+
+<pre>
+File:
+data.csv
+Team:
+FURIA
+Games: 2
+Wins: 1
+Losses: 1
+</pre>
+
+<pre>
+File:
+data.csv
+Name:
+ENCE
+Games: 6
+Wins: 3
+Losses: 3
+</pre>
