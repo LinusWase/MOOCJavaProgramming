@@ -45,4 +45,15 @@ System.out.println(manhattanStudioApt.priceDifference(atlantaTwoBedroomApt));  /
 System.out.println(bangorThreeBedroomApt.priceDifference(atlantaTwoBedroomApt));   //35400
 ```
 
-## Part 3: 
+## Part 3: More expensive?
+Write a method public boolean moreExpensiveThan(Apartment compared) that returns true if the apartment object whose method is called is more expensive than the apartment object being compared.
+
+An example of how the method should work:
+```
+Apartment manhattanStudioApt = new Apartment(1, 16, 5500);
+Apartment atlantaTwoBedroomApt = new Apartment(2, 38, 4200);
+Apartment bangorThreeBedroomApt = new Apartment(3, 78, 2500);
+
+System.out.println(manhattanStudioApt.moreExpensiveThan(atlantaTwoBedroomApt));  // false
+System.out.println(bangorThreeBedroomApt.moreExpensiveThan(atlantaTwoBedroomApt));   // true
+```

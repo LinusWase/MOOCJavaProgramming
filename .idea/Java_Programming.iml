@@ -86,6 +86,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/HealthStation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/NullPointerException" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/IdenticalTwins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Part5Books" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Song" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
