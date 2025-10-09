@@ -80,6 +80,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/OneMinute" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/LearningObjectOrientedProgramming/OverloadedCounter" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/PrimitiveAndReferenceVariables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/BiggestPetShop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/CardPayments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/ComparingApartments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/HealthStation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/NullPointerException" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

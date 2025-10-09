@@ -9,7 +9,7 @@ public class IntroductionToObjectOrientedProgramming {
         juhana.setHeight(175);
         juhana.setWeight(64);
 
-        System.out.println(matti.getName() + ", body mass index is " + matti.bodyMassIndex());
-        System.out.println(juhana.getName() + ", body mass index is " + juhana.bodyMassIndex());
+        System.out.println(matti.getName() + ", body mass index is " + matti.bmi());
+        System.out.println(juhana.getName() + ", body mass index is " + juhana.bmi());
     }
 }
