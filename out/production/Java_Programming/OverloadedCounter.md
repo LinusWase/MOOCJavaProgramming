@@ -1,11 +1,11 @@
-# Overloaded Counter (2 parts)
+# Overloaded Counting (2 parts)
 
 ## Part 1: Multiple constructors
 
-Implement a class called Counter. The class contains a number whose value can be incremented and decremented. The class must have the following constructors:
+Implement a class called Counting. The class contains a number whose value can be incremented and decremented. The class must have the following constructors:
 
-- public Counter(int startValue) sets the start value of the counter to startValue.
-- public Counter() sets the start value of the counter to 0.
+- public Counting(int startValue) sets the start value of the counter to startValue.
+- public Counting() sets the start value of the counter to 0.
 
 And the following methods:
 

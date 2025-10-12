@@ -86,7 +86,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/HealthStation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/NullPointerException" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Archive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/DatingApp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/IdenticalTwins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Money" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Part5Books" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Song" isTestSource="false" />
     </content>
