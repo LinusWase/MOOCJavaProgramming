@@ -92,6 +92,16 @@
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Money" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Part5Books" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part5/ObjectsAndReferences/Song" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/CargoHold" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/HeightOrder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/LongestInCollection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/Menu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/MessagingService" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/PrintingACollection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/SantasWorkshop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/OOALAALAPOAO/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part6/STUIFPL/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
