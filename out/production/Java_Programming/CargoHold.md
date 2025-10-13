@@ -205,3 +205,40 @@ public class Main {
 ```
 The program's output should be the following:
 > 2 suitcases (7 kg)
+
+## Part 7: The Hold's Contents
+Add to the Hold class the method public void printItems() that prints all the items contained in the hold's suitcases.
+
+The following is an example of the class in use:
+
+```
+public class Main {
+    public static void main(String[] args) {
+        Item book = new Item("Lord of the rings", 2);
+        Item phone = new Item("Nokia 3210", 1);
+        Item brick = new Item("brick", 4);
+
+        Suitcase adasCase = new Suitcase(10);
+        adasCase.addItem(book);
+        adasCase.addItem(phone);
+
+        Suitcase pekkasCase = new Suitcase(10);
+        pekkasCase.addItem(brick);
+
+        Hold hold = new Hold(1000);
+        hold.addSuitcase(adasCase);
+        hold.addSuitcase(pekkasCase);
+
+        System.out.println("The suitcases in the hold contain the following items:");
+        hold.printItems();
+    }
+}
+```
+The program's output should be as follows:
+
+<pre>
+The suitcases in the hold contain the following items:
+Lord of the rings (2 kg)
+Nokia 3210 (1 kg)
+brick (4 kg)
+</pre>
