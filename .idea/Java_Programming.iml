@@ -107,6 +107,15 @@
       <sourceFolder url="file://$MODULE_DIR$/Part6/STUIFPL/SimpleDictionary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part6/STUIFPL/ToDoList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part6/STUIFPL/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/Algorithms/ReadyMadeSortingAlgrorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/Algorithms/Searching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/Algorithms/Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/Algorithms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/LargerProgrammingExercises/GradeStatistics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/ProgrammingParadigms/LiquidContainerV2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/ProgrammingParadigms/LiquidContainers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/ProgrammingParadigms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/LargerProgrammingExercises/RecipeSearch" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
