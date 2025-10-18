@@ -116,6 +116,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Part7/ProgrammingParadigms/LiquidContainers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part7/ProgrammingParadigms/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part7/LargerProgrammingExercises/RecipeSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part7/LargerProgrammingExercises/BigYear" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
