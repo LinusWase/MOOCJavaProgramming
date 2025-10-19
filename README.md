@@ -47,9 +47,9 @@ To run a specific exercise in IntelliJ IDEA:
 * [X] Part 2: Loops and methods
 * [X] Part 3: Lists and array
 * [X] Part 4: Object-oriented programming Part 1
-* [ ] Part 5: Object-oriented programming Part 2
-* [ ] Part 6: Objects
-* [ ] Part 7: General programming paradigms
+* [X] Part 5: Object-oriented programming Part 2
+* [X] Part 6: Objects
+* [X] Part 7: General programming paradigms
 
 **Java Programming II**
 * [ ] Part 8: Hash Map
