@@ -52,7 +52,7 @@ To run a specific exercise in IntelliJ IDEA:
 * [X] Part 7: General programming paradigms
 
 **Java Programming II**
-* [ ] Part 8: Hash Map
+* [X] Part 8: Hash Map
 * [ ] Part 9: Inheritance and interfaces
 * [ ] Part 10: Handling collections with streams
 * [ ] Part 11: Diagrams
