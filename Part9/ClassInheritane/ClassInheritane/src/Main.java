@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -22,5 +23,10 @@ public class Main {
         for (Point p : points){
             System.out.println(p);
         }
+
+        UserInterface userInterface = new UserInterface(new Scanner(System.in));
+        userInterface.addOperation(new PlusOperation());
+
+        userInterface.start();
     }
 }

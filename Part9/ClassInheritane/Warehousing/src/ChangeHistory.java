@@ -39,6 +39,6 @@ public class ChangeHistory {
     }
 
     public String toString(){
-        return String.valueOf(history);
+        return history.toString();
     }
 }

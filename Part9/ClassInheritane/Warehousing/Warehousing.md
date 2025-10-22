@@ -96,3 +96,115 @@ Public constructors and methods of the ChangeHistory class:
 
 - public String toString() returns the string representation of the change history. The string representation 
 provided by the ArrayList class is sufficient.
+
+
+## Part 4: Change History, step 2
+
+Build on the ChangeHistory class by adding analysis methods:
+
+- public double maxValue() returns the largest value in the change history. If the history is empty, the method 
+should return zero.
+
+- public double minValue() returns the smallest value in the change history. If the history is empty, the method 
+should return zero.
+
+- public double average() returns the average of the values in the change history. If the history is empty, the 
+method should return zero.
+
+The methods should not modify the order of the encapsulated list.
+## Part 5: Product warehouse with history, step 1
+
+Implement ProductWarehouseWithHistory as a subclass of ProductWarehouse. In addition to all the previous features this new warehouse also provides services related to the change history of the warehouse inventory. The history is managed using the ChangeHistory object.
+
+Public constructors and methods:
+
+- public ProductWarehouseWithHistory(String productName, double capacity, double initialBalance) creates a product 
+warehouse. The product name, capacity, and initial balance are provided as parameters.
+
+Set the initial balance as the initial balance of the warehouse, as well as the first value of the change history.
+
+- public String history() returns the product history like this [0.0, 119.2, 21.2]. Use the string representation of 
+the ChangeHistory object as is.
+
+__NB__ in this initial version the history is not yet working properly; currently it only remembers the initial balance.
+
+Usage example:
+
+```
+// the usual:
+ProductWarehouseWithHistory juice = new ProductWarehouseWithHistory("Juice", 1000.0, 1000.0);
+juice.takeFromWarehouse(11.3);
+System.out.println(juice.getName()); // Juice
+juice.addToWarehouse(1.0);
+System.out.println(juice);           // Juice: balance = 989.7, space left 10.3
+
+// etc
+
+// however, history() still doesn't work properly:
+System.out.println(juice.history()); // [1000.0]
+// so we only get the initial state of the history set by the constructor...
+```
+
+### Sample output
+
+>Juice <br>
+>Juice: balance = 989.7, space left 10.299999999999955 <br>
+>[1000.0] <br>
+
+## Part 6: Product warehouse with history, step 2
+
+It's time to make history! The first version didn't know anything but the initial state of the history. Expand the class with the following methods
+
+- public void addToWarehouse(double amount) works just like the method in the Warehouse class, but we also record the 
+changed state to the history. NB: the value recorded in the history should be the warehouse's balance after adding, not the amount added!
+
+- public double takeFromWarehouse(double amount) works just like the method in the Warehouse class, but we also 
+record the changed state to the history. NB: the value recorded in the history should be the warehouse's balance after removing, not the amount removed!
+
+Usage example:
+```
+// the usual:
+ProductWarehouseWithHistory juice = new ProductWarehouseWithHistory("Juice", 1000.0, 1000.0);
+juice.takeFromWarehouse(11.3);
+System.out.println(juice.getName()); // Juice
+juice.addToWarehouse(1.0);
+System.out.println(juice);           // Juice: balance = 989.7, space left 10.3
+
+// etc
+
+// and now we have the history:
+System.out.println(juice.history()); // [1000.0, 988.7, 989.7]
+```
+
+### Sample output
+
+>Juice <br>
+>Juice: balance = 989.7, space left 10.299999999999955 <br>
+>[1000.0, 988.7, 989.7] <br>
+
+*Remember how an overriding method can take advantage of the overridden method!*
+
+## Part 7: Product warehouse with history, step 3
+
+Expand the class with the method
+
+- public void printAnalysis(), which prints history related information for the product in the way presented in the 
+example.
+
+Usage example:
+```
+ProductWarehouseWithHistory juice = new ProductWarehouseWithHistory("Juice", 1000.0, 1000.0);
+juice.takeFromWarehouse(11.3);
+juice.addToWarehouse(1.0);
+//System.out.println(juice.history()); // [1000.0, 988.7, 989.7]
+
+juice.printAnalysis();
+```
+
+### Sample output
+
+>Product: Juice <br>
+>History: [1000.0, 988.7, 989.7] <br>
+>Largest amount of product: 1000.0 <br>
+>Smallest amount of product: 988.7 <br>
+>Average: 992.8<br>
