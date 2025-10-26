@@ -1,3 +1,4 @@
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main {
@@ -6,7 +7,7 @@ public class Main {
         //stringBuilder();
         //regularExpression(scanner);
         //alternation();
-        enums();
+        //enums();
     }
 
     public static void stringBuilder(){

@@ -20,4 +20,14 @@ public class Hand {
             System.out.println(iterator.next());
         }
     }
+
+    public void removeWorst(int value){
+        Iterator<Card> iterator = cards.iterator();
+
+        while (iterator.hasNext()){
+            if (iterator.next().getValue() < value){
+                iterator.remove();
+            }
+        }
+    }
 }
